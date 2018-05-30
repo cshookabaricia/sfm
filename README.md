@@ -8,7 +8,7 @@ This repository is used to build strucutre for motion and potree familiarity. Fo
 
 #### Sources:
 
-Pointcloud LAS File | Jared Ritchey, OSU Geovisualization and Analytics department
+Pointcloud LAS File and Images | Jared Ritchey, OSU Geovisualization and Analytics department
 
 
-![Point Cloud](sfm/img/pointcloudvis.png)
+![Point Cloud](https://raw.githubusercontent.com/cshookabaricia/sfm/master/img/pointcloudvis.png)
