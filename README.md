@@ -1,2 +1,4 @@
 # sfm
-Structure for Motion 
+Structure from Motion 
+
+
