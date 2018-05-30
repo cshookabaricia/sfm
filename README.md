@@ -1,4 +1,4 @@
-# sfm
+# Extra Credit Lab 6
 
 ### Structure from Motion and Potree Lab
 
